@@ -8,7 +8,7 @@ backgroundColor: white
 
 ---
 # :+1:Marpのtest<!-- omit in toc -->
-themeはデフォで3種類
+themeはデフォで3種類(これは今はgaia)
 - theme: default
 - theme: gaia
 - theme: uncover
