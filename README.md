@@ -2,6 +2,7 @@
 
 ```bash
 git clone https://github.com/xianglishan/MarpTest.git
-code Marp-test
 ```
-and you can use this template.
+
+and open this directory in vscode.
+then you can use this template.
